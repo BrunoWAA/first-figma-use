@@ -1,0 +1,71 @@
+body{
+    margin: 0;
+}
+
+.container {
+    background-color: #1F2235;
+    position: absolute;
+    width: 1170px;
+    height: 110px;
+    display: block;
+    
+}
+
+.fonte{
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color:#FFFF;
+
+}
+
+.divHome{
+
+    background-color: #FF4A57;
+    position: absolute;
+    width: 94px;
+    height: 50px;   
+    margin-left: 45px;
+    margin-top: 25px;
+}
+.alinhamentoHome{
+    
+    margin-top: 12px;
+    margin-right: 5px;
+    margin-left: 25px;
+    text-decoration: none
+}
+.divHome a {
+    position: absolute;
+    width: 54px;
+    height: 27px;
+
+}
+
+
+
+.contato{
+    border: solid white 2px;
+    position: absolute;
+    width: 74px;
+    height: 27px;
+    margin: 30px 158px;
+    margin-left: 135px;
+    margin-top: 40px;
+}
+
+.contato a {
+    position: absolute;
+    width: 54px;
+    height: 27px;
+    
+}
+
+.contato a:hover{
+    background-color: #FF4A57;
+    
+    
+}
