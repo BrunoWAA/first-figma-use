@@ -51,7 +51,7 @@ function botaoAPI()
             document.getElementById('RetornoAPi').style.display="none"
         }
         else{
-            document.getElementById("input-5").innerHTML = "Enviado com sucesso"
+            document.getElementById("input-5").innerHTML = "E-mail enviado com sucesso"
             document.getElementById('input-5').style.display="flex"
             document.getElementById('input-5').style.backgroundColor= "rgb(93, 218, 100)"
             document.getElementById('RetornoAPi').style.display="block"
